@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820374660167",
+    "project_id": "test-822cb",
+    "storage_bucket": "test-822cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820374660167:android:0163cf79087d301fdabd62",
+        "android_client_info": {
+          "package_name": "com.theninja.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5Mxv0FU5lMaOQFmOg0VS7dXs1mYuj5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

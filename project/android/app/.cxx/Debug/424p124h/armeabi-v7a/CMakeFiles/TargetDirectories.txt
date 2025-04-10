@@ -1,0 +1,2 @@
+C:/Users/vicky/OneDrive/Desktop/Ecomm/project/android/app/.cxx/Debug/424p124h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/vicky/OneDrive/Desktop/Ecomm/project/android/app/.cxx/Debug/424p124h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
